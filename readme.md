@@ -1,7 +1,7 @@
 # MERN E-commerce Base Repository
 
-This repository hosts the **base code** of a MERN stack e-commerce application.  
-It is used as the foundational code for a series of **DevOps and cloud infrastructure projects**, demonstrating end-to-end application deployment, orchestration, automation, and monitoring across multiple environments.
+This repository hosts the **base code** of a MERN stack e-commerce application. 
+I will use this repo as the foundational code for a series of **DevOps and cloud infrastructure projects**, demonstrating my Devops expertise and skills in end-to-end application deployment, orchestration, automation, and monitoring across multiple environments, along with my expertise in cloud infrastructure implementations on AWS and Azure.
 
 ## Intended DevOps Projects & Implementations
 
